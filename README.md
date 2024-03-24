@@ -4,7 +4,7 @@
 
 📚 Currently pursuing a Bachelor's degree in **Computer Science** at *Babes-Bolyai University*.
 
-👩🏼‍💻 Ex-**SWE Intern** at *Google Bucharest* (2023) & Ex-**STEP Intern** at *Google Zürich* (2022)
+👩🏼‍💻 Ex-**SWE Intern** at *Google Bucharest* (2023) & Ex-**STEP Intern** at *Google Zürich* (2022).
 
 
 
